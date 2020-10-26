@@ -1,1 +1,2 @@
-# -julia
+# Julia
+# Basics of algorithms
